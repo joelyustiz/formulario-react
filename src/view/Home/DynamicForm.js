@@ -99,26 +99,3 @@ function DynamicForm({ handleSubmit, formType }) {
 }
 
 export default DynamicForm;
-
-/*
-1
-From personal projects, a recent example was an application that made web scrping to an Amazon page and saved the data in a SQL Lite database. I decided to do it in Nodejs to be able to use the web scrapring libraries that I already used. Example: https://github.com/joelyustiz/web-scraping-nodejs
-
-2
-
-I would use ReactJs on the Frontend, Java with SprintBoot or Nodejs for the backend and Mysql as the database
-
-3
-
-Visual Studio, NetBeans my Id para base de datos, git
-
-4
-
-I do tests with Jest for Reactjs and I make sure to follow the practices that the team has
-
-5
-
-I have not had interaction with flux but I have worked with Redux which allows us to manage a global state of the applications and in this way allows us from any component to connect to the global state and not have to be passing the information through nodes (parents to children)
-
-
-*/

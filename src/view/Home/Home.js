@@ -30,7 +30,7 @@ function Home(props) {
   return (
     <CustomSection>
       <h1 className="title">
-        Formulario
+        Formularios Dinámicos
       </h1>
 
       <div>
@@ -70,7 +70,7 @@ function Home(props) {
         formType={componentsForm}
       />
 
-      <p>Datos a enviar: {JSON.stringify(api)}</p>
+      <p>Datos a enviar de los formularios dinámicos: {JSON.stringify(api)}</p>
 
     </CustomSection>
   );
