@@ -1,4 +1,4 @@
-# formularios dinámicos
+# Formularios Dinámicos
 
 ## Instalación 
 ### `npm i`
