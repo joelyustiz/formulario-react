@@ -1,6 +1,6 @@
 # formularios dinámicos
 
-## instalación 
+## Instalación 
 ### `npm i`
 
 ## Realizar build del proyecto para desarrollo
